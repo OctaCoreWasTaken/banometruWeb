@@ -24,8 +24,8 @@
     "backgroundImage": ""
   },
   "about": {
-    "title": "Despre Nova Vision",
-    "description": "Nova Vision este postul de radio al liceului nostru — un spațiu dedicat vocilor, poveștilor și muzicii care ne definesc. Gala din 24 Iunie este primul pas concret spre a-l face realitate: cu fondurile strânse, vom achiziționa echipamentele necesare și vom deschide studioului ușile pentru prima emisie.",
+    "title": "Despre Nova Signal",
+    "description": "Nova Signal este postul de radio al liceului nostru — un spațiu dedicat vocilor, poveștilor și muzicii care ne definesc. Gala Nova Vision din 24 Iunie este primul pas concret spre a-l face realitate: cu fondurile strânse, vom achiziționa echipamentele necesare și vom deschide studioului ușile pentru prima emisie.",
     "pillars": [
       {
         "icon": "📰",
@@ -60,7 +60,7 @@
       {
         "time": "21:30",
         "title": "Momentul Oficial",
-        "description": "Prezentarea proiectului Nova Vision și a obiectivelor campaniei."
+        "description": "Prezentarea proiectului Nova Signal și a obiectivelor campaniei."
       },
       {
         "time": "22:00",
@@ -71,7 +71,7 @@
   },
   "tickets": {
     "title": "Bilete",
-    "subtitle": "Fiecare bilet cumpărat aduce Nova Vision mai aproape de realitate.",
+    "subtitle": "Fiecare bilet cumpărat aduce Nova Signal mai aproape de realitate.",
     "general": {
       "price": 20,
       "label": "General",
@@ -112,7 +112,7 @@
         "color": "accent"
       },
       {
-        "label": "Fonduri Nova Vision",
+        "label": "Fonduri Nova Signal",
         "amount": 7500,
         "description": "Rămași după cheltuieli",
         "color": "highlight"
@@ -140,7 +140,7 @@
   },
   "footer": {
     "tagline": "Every voice finds its frequency.",
-    "copyright": "© 2025 Nova Vision. Toate drepturile rezervate.",
+    "copyright": "© 2025 Nova Signal. Toate drepturile rezervate.",
     "links": []
   },
   "sections": {
