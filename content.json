@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "siteName": "Gala Nova Signal",
+    "tagline": "Every voice finds its frequency.",
+    "date": "24 Iunie 2025",
+    "venue": "TBD",
+    "city": "TBD"
+  },
+  "nav": {
+    "links": [
+      { "label": "Despre", "href": "#despre" },
+      { "label": "Program", "href": "#program" },
+      { "label": "Bilete", "href": "#bilete" },
+      { "label": "Buget", "href": "#buget" },
+      { "label": "Echipă", "href": "#echipa" },
+      { "label": "Contact", "href": "#contact" }
+    ]
+  },
+  "hero": {
+    "headline": "Gala Nova Signal",
+    "subheadline": "Every voice finds its frequency.",
+    "ctaPrimary": "Cumpără bilet",
+    "ctaSecondary": "Află mai mult",
+    "backgroundImage": ""
+  },
+  "about": {
+    "title": "Despre Nova Signal",
+    "description": "Nova Signal este postul de radio al liceului nostru — un spațiu dedicat vocilor, poveștilor și muzicii care ne definesc. Gala din 24 Iunie este primul pas concret spre a-l face realitate: cu fondurile strânse, vom achiziționa echipamentele necesare și vom deschide studioului ușile pentru prima emisie.",
+    "pillars": [
+      {
+        "icon": "📰",
+        "title": "Jurnalism",
+        "description": "Știri și reportaje realizate de elevi, despre viața liceului și comunitatea noastră."
+      },
+      {
+        "icon": "📢",
+        "title": "Anunțuri Școlare",
+        "description": "Un canal oficial de comunicare pentru evenimente, orar și informații importante."
+      },
+      {
+        "icon": "🎵",
+        "title": "Muzică",
+        "description": "Emisiuni muzicale, promovarea trupelor școlare și hituri populare pentru toți ascultătorii."
+      }
+    ]
+  },
+  "program": {
+    "title": "Programul Galei",
+    "items": [
+      {
+        "time": "19:00",
+        "title": "Primirea Invitaților",
+        "description": "Cocktail de bun venit și oportunitate de networking."
+      },
+      {
+        "time": "20:00",
+        "title": "Cina Festivă",
+        "description": "Cina este oferită de locație și achitată separat de participanți."
+      },
+      {
+        "time": "21:30",
+        "title": "Momentul Oficial",
+        "description": "Prezentarea proiectului Nova Signal și a obiectivelor campaniei."
+      },
+      {
+        "time": "22:00",
+        "title": "Concert & DJ Set",
+        "description": "Show live și muzică pentru dans — seara continuă!"
+      }
+    ]
+  },
+  "tickets": {
+    "title": "Bilete",
+    "subtitle": "Fiecare bilet cumpărat aduce Nova Signal mai aproape de realitate.",
+    "general": {
+      "price": 20,
+      "label": "General",
+      "perks": [
+        "Acces la cina festivă",
+        "Acces la concert & DJ set",
+        "Susții radio-ul școlii",
+        "Loc disponibil în sală"
+      ]
+    },
+    "vip": {
+      "price": 30,
+      "label": "VIP",
+      "perks": [
+        "Acces la cina festivă VIP",
+        "Loc rezervat în primele rânduri",
+        "Acces backstage post-concert",
+        "Susții radio-ul școlii"
+      ]
+    },
+    "totalSpots": 300,
+    "disclaimer": "Aceasta este o demonstrație conceptuală. Într-un eveniment real, vei primi un email de confirmare și instrucțiuni de plată."
+  },
+  "budget": {
+    "title": "Transparență Bugetară",
+    "subtitle": "Cum sunt folosiți banii tăi",
+    "items": [
+      {
+        "label": "Locație",
+        "amount": 5000,
+        "description": "Acoperită din investiția inițială",
+        "color": "primary"
+      },
+      {
+        "label": "Diverse (DJ, decor)",
+        "amount": 1000,
+        "description": "Din veniturile din bilete",
+        "color": "accent"
+      },
+      {
+        "label": "Fonduri Nova Signal",
+        "amount": 7500,
+        "description": "Rămași după cheltuieli",
+        "color": "highlight"
+      }
+    ],
+    "totalRevenue": 8500,
+    "investment": 5000,
+    "netRaised": 7500
+  },
+  "team": {
+    "title": "Echipa Noastră",
+    "subtitle": "Oamenii din spatele Galei Nova Signal",
+    "members": [
+      { "name": "Membru 1", "role": "Manager de Proiect", "photo": "" },
+      { "name": "Membru 2", "role": "Marketing & Comunicare", "photo": "" },
+      { "name": "Membru 3", "role": "Relații Publice", "photo": "" },
+      { "name": "Membru 4", "role": "Finanțe & Sponsorizări", "photo": "" }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Ai întrebări sau dorești mai multe detalii?",
+    "description": "Scrie-ne un mesaj și te vom contacta în cel mai scurt timp posibil.",
+    "email": "contact@novasignal.ro"
+  },
+  "footer": {
+    "tagline": "Every voice finds its frequency.",
+    "copyright": "© 2025 Nova Signal. Toate drepturile rezervate.",
+    "links": []
+  },
+  "sections": {
+    "budget": { "visible": true },
+    "team": { "visible": true }
+  }
+}
