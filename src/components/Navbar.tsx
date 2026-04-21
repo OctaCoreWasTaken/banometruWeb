@@ -1,5 +1,5 @@
 "use client";
-
+// nav
 import { useState, useEffect } from "react";
 import Image from "next/image";
 import type { SiteContent } from "@/lib/content";
