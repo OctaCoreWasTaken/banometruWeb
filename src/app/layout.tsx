@@ -24,7 +24,17 @@ export default function RootLayout({
   return (
     <html lang="ro" className={`${spaceGrotesk.className} h-full`}>
       <head>
-        <style>{`header a, header a:visited { color: #F0E6FF !important; }`}</style>
+        <style>{`
+          .text-bright { color: #F0E6FF !important; }
+          .text-muted  { color: #9966AA !important; }
+          .bg-base     { background-color: #050008 !important; }
+          .bg-surface  { background-color: #0D001A !important; }
+          .bg-elevated { background-color: #150025 !important; }
+          .bg-primary  { background-color: #73007C !important; }
+          .bg-secondary{ background-color: #6B0466 !important; }
+          .border-primary { border-color: #73007C !important; }
+          header a, header a:visited { color: #F0E6FF !important; }
+        `}</style>
       </head>
       <body className="min-h-full flex flex-col bg-base text-bright antialiased">
         <Providers>
