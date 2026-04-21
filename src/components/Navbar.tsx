@@ -50,8 +50,8 @@ export default function Navbar({ content }: Props) {
               NS
             </div>
           </div>
-          <span className="font-semibold text-bright tracking-wide text-sm sm:text-base">
-            Nova Signal
+          <span className="font-semibold text-white tracking-wide text-sm sm:text-base">
+            {content.meta.siteName}
           </span>
         </a>
 

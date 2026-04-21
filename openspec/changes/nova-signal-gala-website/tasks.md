@@ -92,5 +92,5 @@
 - [ ] 13.3 Test responsive layout at 375px (mobile), 768px (tablet), and 1280px (desktop)
 - [x] 13.4 Verify `prefers-reduced-motion` disables all Framer Motion animations and the star-field animation
 - [x] 13.5 Run `npm run build` and confirm the `out/` static export has no errors
-- [ ] 13.6 Deploy to Vercel and confirm the live URL loads correctly
+- [x] 13.6 Deploy to Vercel and confirm the live URL loads correctly
 - [ ] 13.7 Add logo PNG (transparent background) to `/public/images/logo.png` and wire into Navbar and Footer
