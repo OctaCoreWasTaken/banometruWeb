@@ -32,7 +32,7 @@ export default function Navbar({ content }: Props) {
         {/* Logo + site name */}
         <a
           href="#"
-          className="flex items-center gap-3 group text-white"
+          className="flex items-center gap-3 group text-bright"
           onClick={handleNavClick}
         >
           <div className="w-8 h-8 relative flex-shrink-0">
@@ -50,7 +50,7 @@ export default function Navbar({ content }: Props) {
               NS
             </div>
           </div>
-          <span className="font-semibold text-white tracking-wide text-sm sm:text-base">
+          <span className="font-semibold text-bright tracking-wide text-sm sm:text-base">
             {content.meta.siteName}
           </span>
         </a>
