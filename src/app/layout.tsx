@@ -23,6 +23,9 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="ro" className={`${spaceGrotesk.className} h-full`}>
+      <head>
+        <style>{`header a, header a:visited { color: #F0E6FF !important; }`}</style>
+      </head>
       <body className="min-h-full flex flex-col bg-base text-bright antialiased">
         <Providers>
           <Navbar content={content} />
