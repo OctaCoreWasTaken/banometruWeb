@@ -32,7 +32,8 @@ export default function Navbar({ content }: Props) {
         {/* Logo + site name */}
         <a
           href="#"
-          className="flex items-center gap-3 group text-bright"
+          className="flex items-center gap-3 group"
+          style={{ color: "#F0E6FF" }}
           onClick={handleNavClick}
         >
           <div className="w-8 h-8 relative flex-shrink-0">

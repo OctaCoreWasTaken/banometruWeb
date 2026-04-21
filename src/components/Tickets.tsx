@@ -51,7 +51,7 @@ export default function Tickets({ content }: Props) {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="text-center text-muted text-sm mb-12"
           >
-            {tickets.totalSpots} locuri disponibile · 24 Iunie 2025
+            {tickets.totalSpots} locuri disponibile · {content.meta.date}
           </motion.p>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-2xl mx-auto">
